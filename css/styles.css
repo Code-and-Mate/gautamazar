@@ -11019,3 +11019,17 @@ header.masthead h1, header.masthead .h1 {
   color: green;
   margin: 10px;
 }
+
+.ampersand{
+  color: #92A333;
+}
+
+#none-deco{
+  text-decoration: none;
+  color: black;
+}
+
+#none-deco:hover{
+  text-decoration: none;
+  color: grey;
+}
